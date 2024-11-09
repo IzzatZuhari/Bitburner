@@ -4,8 +4,10 @@
 
 3 - run sync-script.js
 
-4 - Done
+4 - nano breach.js and utilz.js
+
+5 - done
 
 
-
+To access dev menu
 [Dev.js](https://github.com/IzzatZuhari/Bitburner/blob/main/dev.js)
