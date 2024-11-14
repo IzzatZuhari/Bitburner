@@ -11,3 +11,5 @@
 
 To access dev menu
 [Dev.js](https://github.com/IzzatZuhari/Bitburner/blob/main/dev.js)
+
+Karma.js allowed for extended stat view including karma.
